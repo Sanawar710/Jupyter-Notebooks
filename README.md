@@ -1,2 +1,10 @@
 # Jupyter-Notebooks
-This repository serves as a centralized collection of all practice Jupyter notebooks created during learning and experimentation with various data science, machine learning, and Python concepts.
+Welcome to the **Jupyter Notebook Practice** repository!  
+This repository contains a collection of Jupyter notebooks created while exploring and practicing various concepts in:
+
+-  Data Science
+-  Machine Learning
+-  Python Programming
+-  Data Visualization
+-  Statistical Analysis
+-  Mathematics for Data
